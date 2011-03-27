@@ -1,0 +1,169 @@
+setting 'ivy.default.settings.dir' to 'jar:file:/E:/DEV/BUILD_TOOLS/SBT/sbt-launch-0.7.4.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to 'E:\Projects\BowlerProjects\Bowler\examples\.'
+setting 'ivy.default.conf.dir' to 'jar:file:/E:/DEV/BUILD_TOOLS/SBT/sbt-launch-0.7.4.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.version.PatternVersionMatcher in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'java.runtime.name' to 'Java(TM) SE Runtime Environment'
+setting 'sun.boot.library.path' to 'D:\dev\java\jre6\bin'
+setting 'java.vm.version' to '19.0-b09'
+setting 'java.vm.vendor' to 'Sun Microsystems Inc.'
+setting 'java.vendor.url' to 'http://java.sun.com/'
+setting 'path.separator' to ';'
+setting 'java.vm.name' to 'Java HotSpot(TM) 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'user.country' to 'US'
+setting 'sun.os.patch.level' to ''
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to 'E:\Projects\BowlerProjects\Bowler\examples'
+setting 'java.runtime.version' to '1.6.0_23-b05'
+setting 'java.awt.graphicsenv' to 'sun.awt.Win32GraphicsEnvironment'
+setting 'java.endorsed.dirs' to 'D:\dev\java\jre6\lib\endorsed'
+setting 'os.arch' to 'amd64'
+setting 'java.io.tmpdir' to 'C:\Users\Zane\AppData\Local\Temp\'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'user.variant' to ''
+setting 'os.name' to 'Windows 7'
+setting 'sun.jnu.encoding' to 'GBK'
+setting 'java.library.path' to 'C:\Windows\system32;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;C:\Program Files (x86)\Windows Live\Shared;D:\apps\unportable\Git\cmd;D:\apps\unportable\Git\bin;C:\Program Files\TortoiseGit\bin;D:\apps\portable\Bitvise Tunnelier;D:\dev\java\jdk1.6.0\bin;E:\DEV\BUILD_TOOLS\MAVEN\apache-maven-3.0.1\bin;E:\DEV\BUILD_TOOLS\SBT;E:\LIBS\scala-2.8.1.final\bin;'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '50.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Server Compiler'
+setting 'os.version' to '6.1'
+setting 'user.home' to 'C:\Users\Zane'
+setting 'user.timezone' to 'Asia/Shanghai'
+setting 'java.awt.printerjob' to 'sun.awt.windows.WPrinterJob'
+setting 'file.encoding' to 'Cp1252'
+setting 'java.specification.version' to '1.6'
+setting 'java.class.path' to 'E:\DEV\BUILD_TOOLS\SBT\sbt-launch-0.7.4.jar'
+setting 'user.name' to 'Zane'
+setting 'java.vm.specification.version' to '1.0'
+setting 'java.home' to 'D:\dev\java\jre6'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'en'
+setting 'java.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'awt.toolkit' to 'sun.awt.windows.WToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.6.0_23'
+setting 'java.ext.dirs' to 'D:\dev\java\jre6\lib\ext;C:\Windows\Sun\Java\lib\ext'
+setting 'sun.boot.class.path' to 'D:\dev\java\jre6\lib\resources.jar;D:\dev\java\jre6\lib\rt.jar;D:\dev\java\jre6\lib\sunrsasign.jar;D:\dev\java\jre6\lib\jsse.jar;D:\dev\java\jre6\lib\jce.jar;D:\dev\java\jre6\lib\charsets.jar;D:\dev\java\jre6\lib\modules\jdk.boot.jar;D:\dev\java\jre6\classes'
+setting 'java.vendor' to 'Sun Microsystems Inc.'
+setting 'file.separator' to '\'
+setting 'java.vendor.url.bug' to 'http://java.sun.com/cgi-bin/bugreport.cgi'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'sun.desktop' to 'windows'
+setting 'sun.cpu.isalist' to 'amd64'
+setting 'ivy.default.ivy.user.dir' to 'C:\Users\Zane\.ivy2'
+setting 'ivy.home' to 'C:\Users\Zane\.ivy2'
+no default ivy user dir defined: set to C:\Users\Zane\.ivy2
+setting 'ivy.cache.dir' to 'C:\Users\Zane\.ivy2\cache'
+no default cache defined: set to C:\Users\Zane\.ivy2\cache
+setting 'ivy.basedir' to 'E:\Projects\BowlerProjects\Bowler\examples\project\boot'
+setting 'basedir' to 'E:\Projects\BowlerProjects\Bowler\examples\project\boot'
+setting 'scala' to '2.8.1'
+:: resolving dependencies :: org.scala-tools.sbt#boot-scala;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for org.scala-tools.sbt#boot-scala;1.0 [default]
+loadData of org.scala-tools.sbt#boot-scala;1.0 of rootConf=default
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->default]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-compiler;2.8.1
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-compiler;2.8.1 {default=[default]}
+redefined-public: no namespace defined: using system
+No entry is found in the ModuleDescriptorCache : C:\Users\Zane\.ivy2\cache\org.scala-lang\scala-compiler\ivy-2.8.1.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	resolver not found: sbt-chain => trying to use the one configured for org.scala-lang#scala-compiler;2.8.1
+	configured resolver found for org.scala-lang#scala-compiler;2.8.1: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-compiler;2.8.1 (resolved by redefined-public): C:\Users\Zane\.ivy2\cache\org.scala-lang\scala-compiler\ivy-2.8.1.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-compiler;2.8.1
+redefined-public: no latest strategy defined: using default
+	found org.scala-lang#scala-compiler;2.8.1 in redefined-public
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->runtime]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->compile]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-library;2.8.1
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-library;2.8.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : C:\Users\Zane\.ivy2\cache\org.scala-lang\scala-library\ivy-2.8.1.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	found ivy file in cache for org.scala-lang#scala-library;2.8.1 (resolved by redefined-public): C:\Users\Zane\.ivy2\cache\org.scala-lang\scala-library\ivy-2.8.1.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-library;2.8.1
+	found org.scala-lang#scala-library;2.8.1 in redefined-public
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->default]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->compile]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->master]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->master]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->default]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->runtime]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->compile]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->master]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+Nbr of module to sort : 2
+Sort dependencies of : org.scala-lang#scala-compiler;2.8.1 / Number of dependencies = 2
+Sort dependencies of : org.scala-lang#scala-library;2.8.1 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.8.1
+Sort done for : org.scala-lang#scala-compiler;2.8.1
+Module descriptor is processed : org.scala-lang#scala-library;2.8.1
+	resolved ivy file produced in C:\Users\Zane\.ivy2\cache\resolved-org.scala-tools.sbt-boot-scala-1.0.xml
+:: downloading artifacts ::
+	[NOT REQUIRED] org.scala-lang#scala-compiler;2.8.1!scala-compiler.jar
+	[NOT REQUIRED] org.scala-lang#scala-library;2.8.1!scala-library.jar
+:: resolution report :: resolve 94ms :: artifacts dl 28ms
+Nbr of module to sort : 2
+Sort dependencies of : org.scala-lang#scala-compiler;2.8.1 / Number of dependencies = 2
+Sort dependencies of : org.scala-lang#scala-library;2.8.1 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.8.1
+Sort done for : org.scala-lang#scala-compiler;2.8.1
+Module descriptor is processed : org.scala-lang#scala-library;2.8.1
+	report for org.scala-tools.sbt#boot-scala;1.0 default produced in C:\Users\Zane\.ivy2\cache\org.scala-tools.sbt-boot-scala-default.xml
+	resolve done (94ms resolve - 28ms download)
+:: retrieving :: org.scala-tools.sbt#boot-scala
+	checkUpToDate=true
+no explicit confs given for retrieve, using ivy file: C:\Users\Zane\.ivy2\cache\resolved-org.scala-tools.sbt-boot-scala-1.0.xml
+using ivy parser to parse C:\Users\Zane\.ivy2\cache\resolved-org.scala-tools.sbt-boot-scala-1.0.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	confs: [default]
+	retrieving C:\Users\Zane\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.8.1.jar
+		to E:\Projects\BowlerProjects\Bowler\examples\project\boot\scala-2.8.1\lib\scala-library.jar
+	retrieving C:\Users\Zane\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.8.1.jar
+		to E:\Projects\BowlerProjects\Bowler\examples\project\boot\scala-2.8.1\lib\scala-compiler.jar
+	2 artifacts copied, 0 already retrieved (15118kB/44ms)
+	retrieve done (44ms)

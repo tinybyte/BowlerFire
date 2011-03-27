@@ -1,0 +1,9 @@
+#Source Dependencies
+#Sun Mar 27 13:40:44 CST 2011
+src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathFile.scala=src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\SbtEclipsify.scala
+src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathEntry.scala=src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathFile.scala
+src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\SbtEclipsify.scala=src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathFile.scala;src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\Utils.scala;src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ProjectFile.scala
+src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ProjectFile.scala=src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\SbtEclipsify.scala
+src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\Filter.scala=src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathFile.scala;src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathEntry.scala
+src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\Utils.scala=src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathFile.scala;src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ProjectFile.scala
+src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ProjectNature.scala=src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ClasspathFile.scala;src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\ProjectFile.scala;src_managed\\sbt-eclipsify-0.7.0\\de\\element34\\sbteclipsify\\SbtEclipsify.scala
