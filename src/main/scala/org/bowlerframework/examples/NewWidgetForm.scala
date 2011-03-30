@@ -43,7 +43,7 @@ class NewWidgetForm extends Component{
     $("form input[name='widget.description']").attribute("value", valueOrEmpty(widget.description))
   }
 
-  def  valueOrEmpty(any: Any): String = {
+override  def  valueOrEmpty(any: Any): String = {
     if(any == null)
       return ""
     else return any.toString

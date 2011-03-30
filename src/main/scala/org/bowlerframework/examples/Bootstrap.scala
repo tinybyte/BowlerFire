@@ -13,6 +13,7 @@ import org.bowlerframework.squeryl.SquerylController
 import org.bowlerframework.squeryl.dao.LongKeyedDao
 import org.bowlerframework.persistence.{EntityTransformer, CrudController}
 import org.bowlerframework.model.{ModelValidatorBuilder, DefaultModelValidator}
+import zn.w.postboard._
 
 /**
  * This class acts as the starting point and bootstrap point for our application
@@ -37,7 +38,9 @@ class Bootstrap {
   val controller = new WidgetController
   // This controller is a Squeryl Crud Controller that deals with simple Crud operations on a "Person" entity object
   val peopleController = new CrudController[Person, Long](new SquerylController, new LongKeyedDao[Person](ApplicationSchema.people), "people")
-
+ 
+  val postController = new PostController
+  
   //// SECTION TO SETUP CONNECTION POOLING & DB FOR SQUERYL
   // Setup connection pooling for Squeryl with C3P0
   val cpds = new ComboPooledDataSource

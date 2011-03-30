@@ -5,3 +5,5 @@
 /.scala_dependencies
 /.settings
 /lib_managed
+/project/build/target
+/project/plugins/target
