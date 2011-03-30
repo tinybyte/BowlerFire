@@ -1,7 +1,7 @@
 #External Dependencies
-#Sun Mar 27 17:54:19 CST 2011
-E\:\\Projects\\BowlerProjects\\Bowler\\examples\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\de\\element34\\sbteclipsify\\Eclipsify$class.class=BowlerExamplesProject.scala
-E\:\\Projects\\BowlerProjects\\Bowler\\examples\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.5.RC0\\sbt_2.7.7-0.7.5.RC0.jar=BowlerExamplesProject.scala
-E\:\\Projects\\BowlerProjects\\Bowler\\examples\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.5.RC0\\ivy_2.7.7-0.7.5.RC0.jar=BowlerExamplesProject.scala
-E\:\\Projects\\BowlerProjects\\Bowler\\examples\\project\\boot\\scala-2.7.7\\lib\\scala-library.jar=BowlerExamplesProject.scala
-E\:\\Projects\\BowlerProjects\\Bowler\\examples\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\de\\element34\\sbteclipsify\\Eclipsify.class=BowlerExamplesProject.scala
+#Wed Mar 30 23:51:32 CST 2011
+E\:\\Projects\\BowlerProjects\\BowlerFire\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\de\\element34\\sbteclipsify\\Eclipsify$class.class=BowlerExamplesProject.scala
+E\:\\Projects\\BowlerProjects\\BowlerFire\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.5.RC0\\ivy_2.7.7-0.7.5.RC0.jar=BowlerExamplesProject.scala
+E\:\\Projects\\BowlerProjects\\BowlerFire\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\de\\element34\\sbteclipsify\\Eclipsify.class=BowlerExamplesProject.scala
+E\:\\Projects\\BowlerProjects\\BowlerFire\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.5.RC0\\sbt_2.7.7-0.7.5.RC0.jar=BowlerExamplesProject.scala
+E\:\\Projects\\BowlerProjects\\BowlerFire\\project\\boot\\scala-2.7.7\\lib\\scala-library.jar=BowlerExamplesProject.scala
